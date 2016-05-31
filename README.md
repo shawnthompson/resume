@@ -6,15 +6,24 @@ Dedicated front end web developer with experience in [World Wide Web Consortium 
 
 ## Personal suitability
 
-*   Flexibility
-*   Judgment
-*   Initiative
-*   Hard-working and dependable
-*   Strong leaderships skills
+*   Ability to balance multiple tasks with various and conflicting deadlines 
+*   Ability to meet deadlines in a high volume environment and adhere to established budgets
 *   Attentive to detail
-*   Work well under pressure
+*   Awareness, knowledge and application of the Government of Canada Policies (Internet and Accessibility)
+*   Excellent computer skills 
 *   Effective interpersonal skills
+*   Excellent at solving problems rapidly and effectively 
+*   Experience, knowledge and application of the World Wide Web Consortium (W3C) standards
+*   Extensive experience in accessing and processing information 
+*   First-rate computer skills 
+*   Flexibility
 *   Fluently bilingual in both English and French (BBC)
+*   Good organizational skills
+*   Hard-working and dependable
+*   Initiative
+*   Judgment
+*   Strong leaderships skills
+*   Work well under pressure
 
 ## Post-secondary education
 
@@ -28,9 +37,9 @@ Dedicated front end web developer with experience in [World Wide Web Consortium 
 Web (Front end) Specialist (front end) - Web Channel Office - Usability and Design Team
 
 *   Develop and maintain [GCWeb theme](https://github.com/wet-boew/GCWeb) for the Government of Canada's [Web Experience Toolkit (WET)](https://github.com/wet-boew) project on [GitHub.com](https://github.com/).
-*   Work with the early adopters of the [Canada.ca](http://canada.ca/en/index.html) theme in implementing the theme on their own websites.
+*   Work with the early adopters of the [Canada.ca](https://canada.ca/en/) theme in implementing the theme on their own websites.
 *   Prepare procedures for colleagues to explain how to use git and how to publish to the Canada.ca theme on Github.com.
-*   Chair weekly “codesprints” at Concordia University to encourage students and staff  involvement in the Government of Canada’s open source Web Experience Toolkit project.  
+*   Chaired weekly “codesprints” at Concordia University to encourage students and staff involvement in the Government of Canada’s open source Web Experience Toolkit project.  
 *   Host spontaneous learning sessions with colleagues on various current web technologies such as Git, node.js and the Web Experience Toolkit version 4.0.
 *   Built the [servicecanada.gc.ca](http://servicecanada.gc.ca) template using the WET version 3.1.8 framework.
 
