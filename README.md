@@ -42,6 +42,7 @@ Web (Front end) Specialist (front end) - Web Channel Office - Usability and Desi
 *   Chaired weekly “codesprints” at Concordia University to encourage students and staff involvement in the Government of Canada’s open source Web Experience Toolkit project.  
 *   Host spontaneous learning sessions with colleagues on various current web technologies such as Git, node.js and the Web Experience Toolkit version 4.0.
 *   Built the [servicecanada.gc.ca](http://servicecanada.gc.ca) template using the WET version 3.1.8 framework.
+*   Create technical web components specification for the Treasury Board of Canada Secretariat’s Content and Information Architecture Specifications document based on business needs of the clients.
 
 ### September 2013–December 2013—Service Canada—Ottawa, Ont. (Acting AS-04)  
 Web Specialist - Web Channel Office - Design Team
