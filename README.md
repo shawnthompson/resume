@@ -92,9 +92,9 @@ Certificates from[ Eliquo](http://en.eliquo.ca/) in the following:
 
 ## Additional professional activities
 
-*   Assisted in organizing the a11yMTL 2014 Unconference- November 2014
-*   Presented at the a11yMTL 2014 Unconference on the subject of using semantic HTML elements to mark up your web page for accessibility-November 2014
-*   Animated a learning [session about Jekyll and Github pages](http://wet-boew.github.io/codefest/sessions-en.html%23shawnt-session-title) at CodeFest 2014\. -August 2014
+*   Assisted in organizing the a11yMTL 2014 Unconference - November 2014
+*   Presented at the a11yMTL 2014 Unconference on the subject of using semantic HTML elements to mark up your web page for accessibility - November 2014
+*   Animated a learning [session about Jekyll and Github pages](http://wet-boew.github.io/codefest/sessions-en.html%23shawnt-session-title) at CodeFest 2014. - August 2014
 *   Participate in monthly HTML5, JavaScript and Montreal Developers user group functions to discuss advancements in each related topic - Ongoing
 
 ## Volunteer experience
