@@ -1,0 +1,95 @@
+# Cover Letter
+Applicant Number: S407476
+
+intro paragrph, with language and security requirements met...
+
+## Education
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia harum deserunt eveniet alias, exercitationem quidem maxime quos, tempora labore minus dicta accusantium. Dignissimos harum ullam mollitia corporis reiciendis neque officia!
+
+## Experience
+
+### Experience analyzing business/client requirements.
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti, ea. Provident delectus, ut obcaecati error quisquam quod magni adipisci. Harum perferendis, officia provident porro sint eum esse ipsam molestiae distinctio.
+
+### Experience providing advice, options and recommendations in the definition, development and implementation of IM/IT solutions.
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo, repellat earum libero! Atque facere ut consectetur dolores voluptate fugiat eligendi ullam tempore, sequi et ipsam ab voluptates! Atque, enim, amet!
+
+### Experience in providing support to IM/IT activities/projects for multiple clients, appropriately prioritizing workload and meeting deadlines in a multi-tasking environment.
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus quasi doloremque itaque quas, magnam voluptates nesciunt est alias facilis pariatur dolor. Laborum illo porro repellat, mollitia eum minus saepe placeat.
+
+### Experience evaluating static and dynamic web based systems against Treasury Board of Canada Secretariat (TBS) Web Standards.
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium, aliquid, dolores! Dolorum sapiente, quas, cumque quibusdam doloremque sed excepturi. Aspernatur cumque maxime expedita numquam, distinctio, labore nihil! Ex, maiores, facere.
+
+### Experience with HTML, CSS and JavaScript.
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam, repudiandae ea sapiente voluptate. Error earum assumenda non nulla doloribus. Dolores aut modi perferendis id enim eaque quidem eveniet odit sunt?
+
+## Knowledge
+
+### Knowledge of TBS Web Standards (Accessibility, Usability, Interoperability, Mobile and Search).
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et nostrum mollitia ea accusamus, dolore quod perspiciatis asperiores, porro repellendus velit earum quidem, quos eligendi enim impedit voluptatem natus? Soluta, eum.
+
+### Knowledge of TBS Web Standards testing and evaluation méthodologies.
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore voluptate, culpa possimus dolorem optio saepe, quidem facere repudiandae sapiente, ab tenetur sed ullam, maxime minima tempora provident dignissimos hic placeat!
+
+### Basic knowledge of .NET, JAVA, CSS, HTML, XML, AJAX, jQuery.
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis repellendus ex inventore quas, magnam, a voluptate aspernatur, autem nobis maxime sed commodi mollitia laboriosam harum? Atque quod maiores nam optio.
+
+### Knowledge of Web Experience Toolkit and GitHub.
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi fuga obcaecati dicta deleniti similique accusantium dolorem id voluptatum, veritatis facilis, recusandae magni vel, dolor tempore, reprehenderit maiores quaerat odio neque.
+
+## Abilities
+
+### Ability to communicate effectively orally.
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod iure dicta, nulla dolor eveniet ullam possimus, deserunt temporibus fugit voluptates rem, ducimus accusantium? Quis facere cumque magni totam, nihil sapiente.
+
+### Ability to communicate effectively in writing.
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem sapiente sunt enim, atque dolor ipsum non commodi reprehenderit, impedit quis optio ducimus officia odio dicta minima, neque voluptates. Eveniet, vero.
+
+### Ability to establish priorities and meeting deadlines.
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt vitae, laborum animi! Iusto magnam quam, fugiat dignissimos praesentium. Ipsum labore ab nobis sapiente, suscipit? Quis, veritatis. Nostrum, incidunt, soluta.
+
+## Competencies
+
+### Analytical thinking.
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque praesentium dolorem molestias ullam qui maiores dignissimos ipsum, reiciendis architecto distinctio harum eveniet velit, cumque odio ipsam vitae esse quod voluptates.
+
+## Personal Suitability
+
+### Client focus.
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius vitae doloribus excepturi voluptate hic necessitatibus soluta sint adipisci est incidunt in tempora atque accusantium ut quidem sunt, vel, nesciunt laborum?
+
+## Operational Requirements
+
+### Willingness to travel
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima provident alias libero similique velit, debitis neque molestias consequuntur quidem dolore adipisci tenetur temporibus, hic nemo. Commodi rerum sint veniam possimus!
+
+### Willingness to work overtime
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus velit quod ut impedit vitae, adipisci cumque sint veniam laborum eum fugit rem! Doloribus, veniam vel aperiam, doloremque tempora eum repudiandae.
+
+## Conditions Of Employment
+
+### Reliability Status security clearance
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati porro debitis aperiam quibusdam, ab repellendus eligendi nobis! Fugiat debitis, facilis, quos aliquam enim ratione officiis hic quisquam perspiciatis. Dolor, ratione.
+
+## Conclusion
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore voluptas a quidem, animi nemo. Odio itaque eos vero, quas id laborum assumenda tenetur! Reprehenderit ut eius minima, iusto laborum dolor.
+
