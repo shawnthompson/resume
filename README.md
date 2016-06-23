@@ -41,7 +41,6 @@ Web (Front end) Specialist (front end) - Web Channel Office - Usability and Desi
 *   Prepare procedures for colleagues to explain how to use git and how to publish to the Canada.ca theme on Github.com.
 *   Chaired weekly “codesprints” at Concordia University to encourage students and staff involvement in the Government of Canada’s open source Web Experience Toolkit project.  
 *   Host spontaneous learning sessions with colleagues on various current web technologies such as Git, node.js and the Web Experience Toolkit version 4.0.
-*   Built the [servicecanada.gc.ca](http://servicecanada.gc.ca) template using the WET version 3.1.8 framework.
 *   Create technical web components specification for the Treasury Board of Canada Secretariat’s Content and Information Architecture Specifications document based on business needs of the clients.
 
 ### September 2013–December 2013—Service Canada—Ottawa, Ont. (Acting AS-04)  
@@ -56,6 +55,7 @@ Web Specialist - Web Channel Office - Web Publishing Team (AS-03)
 *   Audited webpages that were published to ServiceCanada.gc.ca to ensure compliance with Web Content Accessibility Guidelines (WCAG) 2.0 standards.
 *   Maintained and organized Web sites using both File Transfer Protocol (FTP) and Interwoven Teamsite as a Content Management System (CMS).
 *   Developed and maintained different Government of Canada Web sites including, [canada.gc.ca](http://www.canada.gc.ca/home.html), [servicecanada.gc.ca](http://www.servicecanada.gc.ca/eng/home.shtml), [pwd-online.ca](http://www.pwd-online.gc.ca/pwdh.4m.2@.jsp?lang%3Deng), [seniors.gc.ca](http://www.seniors-aines.gc.ca/h.4m.2@-eng.jsp) and [news.gc.ca](http://news.gc.ca/web/index-eng.do).
+*   Built the [servicecanada.gc.ca](http://servicecanada.gc.ca) template using the WET version 3.1.8 framework.
 
 ## Working groups / Committees / User Groups
 
