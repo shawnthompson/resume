@@ -5,7 +5,11 @@ intro paragrph, with language and security requirements met...
 
 ## Education
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia harum deserunt eveniet alias, exercitationem quidem maxime quos, tempora labore minus dicta accusantium. Dignissimos harum ullam mollitia corporis reiciendis neque officia!
+*   Diploma in Multi Media Design and Production from [Fanshawe College](http://www.fanshawec.ca/) 2002-2003
+*   Certificate in Advanced/Digital Photography from [Fanshawe College](http://www.fanshawec.ca/) 2001-2002
+*   Diploma in Photography from [Fanshawe College](http://www.fanshawec.ca/) 1998-2000
+
+In 2003, I graduated with a diploma in Multi Media Design and Production, which was a 2 year program from Fanshawe College in London, Ontario. While I was studying my primary focused was on Web Development learning HTML, JavaScript, ASP, Cold Fusion and Flash. Throughout the years working at Service Canada, I acquired many certificates from Eliquo Training and Development and Lynda.com online training, as well as a few from the School of Public Service.
 
 ## Experience
 
