@@ -60,6 +60,7 @@ Web Specialist - Web Channel Office - Web Publishing Team (AS-03)
 ## Working groups / Committees / User Groups
 
 *   Web Interoperability working group / HTML Data sub-committee
+*   Search Optimization Working Group (SOWG) 
 *   User experience working group
 *   Migration and onboarding working group
 *   Adobe AEM/CQ User Group - Montreal Chapter
@@ -71,7 +72,7 @@ Web Specialist - Web Channel Office - Web Publishing Team (AS-03)
 ### Computer software:
 
 *   Adobe: Photoshop, Illustrator, Dreamweaver, Premiere, Flash, Acrobat X, Lightroom 5
-*   Adobe Experience Manager Developer training
+*   Adobe Experience Manager Development
 *   Git and Microsoft Visual SafeSource
 *   Microsoft Office 2010: Word, PowerPoint, Outlook, Excel, SharePoint
 *   Content Management Systems: Interwoven’s Teamsite, RedDot, Adobe Experience Manager
@@ -80,16 +81,58 @@ Web Specialist - Web Channel Office - Web Publishing Team (AS-03)
 
 *   XHTML, HTML 4.0 and HTML5
 *   Cascading Style Sheet (CSS2 and CSS3, LESS and SASS)
-*   JavaScript,  jQuery, JSON, node.js, grunt and assemble.js
+*   JavaScript
+    *   jQuery
+    *   JSON
+    *   node.js
+    *   grunt
+    *   assemble.js
+    *   angular.js
 *   Ajax
 *   PHP
+*   .Net
 
-Certificates from[ Eliquo](http://en.eliquo.ca/) in the following:
+### Certificates from[ Eliquo](http://en.eliquo.ca/) in the following:
 
-*   Web Experience Toolkit (WET): Migrating to WET and the Usability Theme
-*   Adobe Acrobat Pro: Accessible PDFs with WCAG 2.0
+*   WCAG 2.0: Understanding the Web Content Accessibility Guidelines
 *   Overview of WCAG: Web Content Accessibility Guidelines
+*   Adobe Acrobat Pro: Accessible PDFs with WCAG 2.0
+*   WET: Implementing the Standard on Web Interoperability
+*   Web Experience Toolkit (WET): Migrating to WET and the Usability Theme
+*   Web Experience Toolkit (WET) for Designers and Developers
 *   JavaScript: Advanced Scripting
+*   jQuery
+*   PHP: An Introduction
+*   PHP: Advanced Scripting
+*   Learning HTML5
+*   CSS: Advanced Layout Techniques Including CSS
+
+### Certificated from [Lynda.com]() in the following:
+
+*   Administering Google Apps
+*   Web Workflows with Grunt.js
+*   Up and Running with AngularJS 1
+*   Foundations of Photography: Flash
+*   Node.js First Look
+*   CSS: Flexbox First Look
+*   JavaScript Templating
+*   Web Semantics
+*   Protecting Yourself from the Heartbleed Bug
+*   Foundations of UX: Usability Testing (2013)
+*   Web Technology Fundamentals
+*   Start with a Theme: Creative Portfolios in WordPress
+*   Start with a Theme: Twenty Fourteen
+*   WordPress Essential Training (2014)
+*   JavaScript and AJAX
+*   Up and Running with Bootstrap 3
+*   CSS with LESS and Sass
+*   Mobile Web Design & Development Fundamentals
+*   Dreamweaver CS6 New Features
+*   jQuery Mobile Essential Training
+*   Dreamweaver CS5.5 New Features
+*   Setting Up MySQL 5 for PHP in Windows
+*   Setting Up PHP 5 for Windows with Apache or IIS
+*   Windows 7 Essential Training
 
 ## Additional professional activities
 
