@@ -33,19 +33,19 @@ Build the template pages for the Web Experience Toolkit (WET) Canada.ca theme fr
 
 ### Knowledge of TBS Web Standards (Accessibility, Usability, Interoperability, Mobile and Search).
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et nostrum mollitia ea accusamus, dolore quod perspiciatis asperiores, porro repellendus velit earum quidem, quos eligendi enim impedit voluptatem natus? Soluta, eum.
+On a daily basis, I need to ensure the web pages I create follow all of Treasury Board of Canada Secretariat (TBS) web standards. I am also member of the Web Interoperability working group / HTML Data sub-committee, Search Optimization Working Group (SOWG) and User Experience Working Group.
 
 ### Knowledge of TBS Web Standards testing and evaluation méthodologies.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore voluptate, culpa possimus dolorem optio saepe, quidem facere repudiandae sapiente, ab tenetur sed ullam, maxime minima tempora provident dignissimos hic placeat!
+**Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore voluptate, culpa possimus dolorem optio saepe, quidem facere repudiandae sapiente, ab tenetur sed ullam, maxime minima tempora provident dignissimos hic placeat!**
 
 ### Basic knowledge of .NET, JAVA, CSS, HTML, XML, AJAX, jQuery.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis repellendus ex inventore quas, magnam, a voluptate aspernatur, autem nobis maxime sed commodi mollitia laboriosam harum? Atque quod maiores nam optio.
+My present daily responsibility involve working with HTML, CSS, JavaScript and jQuery. I basic training in Java and AJAX and have basic knowledge in .net and XML.
 
 ### Knowledge of Web Experience Toolkit and GitHub.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi fuga obcaecati dicta deleniti similique accusantium dolorem id voluptatum, veritatis facilis, recusandae magni vel, dolor tempore, reprehenderit maiores quaerat odio neque.
+Active member of the Web Experience Toolkit (WET), including creating and fixing issues, making changes to the project, creating theme pages.  Lead training sessions on a regular basis on the workings of WET and how to contribute to the Open Source community on Github.
 
 ## Abilities
 
@@ -89,7 +89,4 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus velit quod ut
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati porro debitis aperiam quibusdam, ab repellendus eligendi nobis! Fugiat debitis, facilis, quos aliquam enim ratione officiis hic quisquam perspiciatis. Dolor, ratione.
 
-## Conclusion
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore voluptas a quidem, animi nemo. Odio itaque eos vero, quas id laborum assumenda tenetur! Reprehenderit ut eius minima, iusto laborum dolor.
-
+I look forward to taking the exam and meeting with you to discuss how I would be a great fit in your team of experts.
