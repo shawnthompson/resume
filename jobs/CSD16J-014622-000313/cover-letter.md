@@ -5,7 +5,7 @@ Currently working as a front end developer with Service Canada on the Web Renewa
 
 ## Education
 
-In 2003, I graduated with a diploma in Multi Media Design and Production, which was a 2 year program from Fanshawe College in London, Ontario. While I was studying my primary focused was on Web Development learning HTML, JavaScript, ASP, Cold Fusion and Flash. Throughout the years working at Service Canada, I acquired many certificates from Eliquo Training and Development and Lynda.com online training, as well as a few from the School of Public Service.
+In 2003, I graduated with a diploma in Multi Media Design and Production, which was a 2 year program from Fanshawe College in London, Ontario. While I was studying my primary focus was on Web Development learning HTML, JavaScript, ASP, Cold Fusion and Flash. Throughout the years working at Service Canada, I acquired many certificates from Eliquo Training and Development and Lynda.com online training, as well as a few from the School of Public Service.
 
 ## Experience
 
