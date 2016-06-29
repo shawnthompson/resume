@@ -15,11 +15,11 @@ Create technical specification documents for Adobe Experience Manager (AEM) comp
 
 ### Experience providing advice, options and recommendations in the definition, development and implementation of IM/IT solutions.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo, repellat earum libero! Atque facere ut consectetur dolores voluptate fugiat eligendi ullam tempore, sequi et ipsam ab voluptates! Atque, enim, amet!
+I work closely with Treasury Board of Canada Secretariat (TBS) when developing the template pages for the Canada.ca theme in the Web Experience Toolkit (WET), often making recommendations to change their Content and Information Architecture Specification to better fit the website.
 
 ### Experience in providing support to IM/IT activities/projects for multiple clients, appropriately prioritizing workload and meeting deadlines in a multi-tasking environment.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus quasi doloremque itaque quas, magnam voluptates nesciunt est alias facilis pariatur dolor. Laborum illo porro repellat, mollitia eum minus saepe placeat.
+Presently have multiple projects that are my responsibility. Project range from high priority, request from the Privy Council Office , to low priority, the Web Experience Toolkit maintenance. Everyday I evaluate my workload and prioritize my daily tasks. 
 
 ### Experience evaluating static and dynamic web based systems against Treasury Board of Canada Secretariat (TBS) Web Standards.
 
