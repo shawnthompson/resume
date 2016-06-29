@@ -56,7 +56,7 @@ Web Specialist - Web Channel Office - Web Publishing Team (AS-03)
 *   Audited webpages that were published to ServiceCanada.gc.ca to ensure compliance with Web Content Accessibility Guidelines (WCAG) 2.0 standards and other Treasury Board of Canada Secretariat (TBS) web standards.
 *   Maintained and organized Web sites using both File Transfer Protocol (FTP) and Interwoven Teamsite as a Content Management System (CMS).
 *   Member of the HRSDC Web Standards Subject Matter Expert (SME) group, was responsible for the review of web content and/or web application output for a specific group within the organization.  
-*   Developed and maintained different Government of Canada Web sites including, [canada.gc.ca](http://www.canada.gc.ca/home.html), [servicecanada.gc.ca](http://www.servicecanada.gc.ca/eng/home.shtml), [pwd-online.ca](http://www.pwd-online.gc.ca/pwdh.4m.2@.jsp?lang%3Deng), [seniors.gc.ca](http://www.seniors-aines.gc.ca/h.4m.2@-eng.jsp) and [news.gc.ca](http://news.gc.ca/web/index-eng.do).
+*   Developed and maintained different Government of Canada Web sites including, canada.gc.ca, [servicecanada.gc.ca](http://www.servicecanada.gc.ca/eng/home.shtml), [pwd-online.ca](http://www.pwd-online.gc.ca/pwdh.4m.2@.jsp?lang%3Deng), [seniors.gc.ca](http://www.seniors-aines.gc.ca/h.4m.2@-eng.jsp) and [news.gc.ca](http://news.gc.ca/web/index-eng.do).
 *   Built the [servicecanada.gc.ca](http://servicecanada.gc.ca) template using the WET version 3.1.8 framework.
 
 ## Working groups / Committees / User Groups
