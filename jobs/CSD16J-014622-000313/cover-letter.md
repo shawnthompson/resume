@@ -1,13 +1,9 @@
 # Cover Letter
 Applicant Number: S407476
 
-intro paragrph, with language and security requirements met...
+Currently working as a front end developer with Service Canada on the Web Renewal Initiative. I have a Secret Security Clearance and my language levels are BBC (To check when I get to work).
 
 ## Education
-
-*   Diploma in Multi Media Design and Production from [Fanshawe College](http://www.fanshawec.ca/) 2002-2003
-*   Certificate in Advanced/Digital Photography from [Fanshawe College](http://www.fanshawec.ca/) 2001-2002
-*   Diploma in Photography from [Fanshawe College](http://www.fanshawec.ca/) 1998-2000
 
 In 2003, I graduated with a diploma in Multi Media Design and Production, which was a 2 year program from Fanshawe College in London, Ontario. While I was studying my primary focused was on Web Development learning HTML, JavaScript, ASP, Cold Fusion and Flash. Throughout the years working at Service Canada, I acquired many certificates from Eliquo Training and Development and Lynda.com online training, as well as a few from the School of Public Service.
 
@@ -15,7 +11,7 @@ In 2003, I graduated with a diploma in Multi Media Design and Production, which 
 
 ### Experience analyzing business/client requirements.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti, ea. Provident delectus, ut obcaecati error quisquam quod magni adipisci. Harum perferendis, officia provident porro sint eum esse ipsam molestiae distinctio.
+Create technical specification documents for Adobe Experience Manager (AEM) components for Canada.ca from requirements sent to me from the Adobe Business Analysis team. 
 
 ### Experience providing advice, options and recommendations in the definition, development and implementation of IM/IT solutions.
 
@@ -27,11 +23,11 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus quasi d
 
 ### Experience evaluating static and dynamic web based systems against Treasury Board of Canada Secretariat (TBS) Web Standards.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium, aliquid, dolores! Dolorum sapiente, quas, cumque quibusdam doloremque sed excepturi. Aspernatur cumque maxime expedita numquam, distinctio, labore nihil! Ex, maiores, facere.
+Was part of a team that audited pages on ServiceCanada.gc.ca to ensure they comply with the TBS standards on Accessibility, Interoperability and Mobility.
 
 ### Experience with HTML, CSS and JavaScript.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam, repudiandae ea sapiente voluptate. Error earum assumenda non nulla doloribus. Dolores aut modi perferendis id enim eaque quidem eveniet odit sunt?
+Build the template pages for the Web Experience Toolkit (WET) Canada.ca theme from the requirements set by the Content and Information Architecture Specification using HTML and CSS for the layout, while using Javascript for any functional needs.
 
 ## Knowledge
 
