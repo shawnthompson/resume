@@ -11,19 +11,21 @@ In 2003, I graduated with a diploma in Multi Media Design and Production, which 
 
 ### Experience analyzing business/client requirements.
 
-Create technical specification documents for Adobe Experience Manager (AEM) components for Canada.ca from requirements sent to me from the Adobe Business Analysis team. 
+Working on creating technical specification documents for Adobe Experience Manager (AEM) components for Canada.ca from requirements sent to me from the Adobe Business Analysis team. This job involves evaluating the client’s needs and determination the best approach in creating a document for the developers to build the component to specifications. This process includes scrum meeting twice a week to ensure the application developer has all they need before they start development. 
 
 ### Experience providing advice, options and recommendations in the definition, development and implementation of IM/IT solutions.
 
-I work closely with Treasury Board of Canada Secretariat (TBS) when developing the template pages for the Canada.ca theme in the Web Experience Toolkit (WET), often making recommendations to change their Content and Information Architecture Specification to better fit the website.
+I work closely with Treasury Board of Canada Secretariat (TBS) when developing the template pages for the Canada.ca theme in the Web Experience Toolkit (WET), often making recommendations to change their Content and Information Architecture Specification to better fit the website. We have weekly meetings to discuss changes to the Specification, trying to predict any conflicts when building the HTML versions of the required templates.
 
 ### Experience in providing support to IM/IT activities/projects for multiple clients, appropriately prioritizing workload and meeting deadlines in a multi-tasking environment.
 
-Presently have multiple projects that are my responsibility. Project range from high priority, request from the Privy Council Office , to low priority, the Web Experience Toolkit maintenance. Everyday I evaluate my workload and prioritize my daily tasks. 
+Presently have multiple projects that are my responsibility. Project range from high priority, request from the Privy Council Office, to low priority, the Web Experience Toolkit maintenance. Every day I evaluate my workload and prioritize my daily tasks. I organize my tasks in priority order, always warranting making room for low priority tasks. 
 
 ### Experience evaluating static and dynamic web based systems against Treasury Board of Canada Secretariat (TBS) Web Standards.
 
-Was part of a team that audited pages on ServiceCanada.gc.ca to ensure they comply with the TBS standards on Accessibility, Interoperability and Mobility.
+Was part of the HRSDC Web Standards Subject Matter Expert (SME) group where I was responsible for the review of web content and/or web application output for a specific groups within Service Canada.
+
+Was also part of a team that audited pages on ServiceCanada.gc.ca to ensure they comply with the TBS standards on Accessibility, Interoperability and Mobility.
 
 ### Experience with HTML, CSS and JavaScript.
 
