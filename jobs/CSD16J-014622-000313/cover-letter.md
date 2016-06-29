@@ -1,7 +1,7 @@
 # Cover Letter
 Applicant Number: S407476
 
-Currently working as a front end developer with Service Canada on the Web Renewal Initiative. I have a Secret Security Clearance and my language levels are BBC (To check when I get to work).
+Currently working as a front end developer with Service Canada on the Web Renewal Initiative. I have a Secret Security Clearance and my language levels are CBB.
 
 ## Education
 
@@ -23,7 +23,7 @@ Presently have multiple projects that are my responsibility. Project range from 
 
 ### Experience evaluating static and dynamic web based systems against Treasury Board of Canada Secretariat (TBS) Web Standards.
 
-Was part of the HRSDC Web Standards Subject Matter Expert (SME) group where I was responsible for the review of web content and/or web application output for a specific groups within Service Canada.
+Was part of the HRSDC Web Standards Subject Matter Expert (SME) group where I was responsible for the review of web content and/or web application output for a specific groups within Service Canada and verify that they were complying with Treasury Board of Canada Secretariat (TBS) Web Standards.
 
 Was also part of a team that audited pages on ServiceCanada.gc.ca to ensure they comply with the TBS standards on Accessibility, Interoperability and Mobility.
 
@@ -37,9 +37,9 @@ Build the template pages for the Web Experience Toolkit (WET) Canada.ca theme fr
 
 On a daily basis, I need to ensure the web pages I create follow all of Treasury Board of Canada Secretariat (TBS) web standards. I am also member of the Web Interoperability working group / HTML Data sub-committee, Search Optimization Working Group (SOWG) and User Experience Working Group.
 
-### Knowledge of TBS Web Standards testing and evaluation méthodologies.
+### Knowledge of TBS Web Standards testing and evaluation methodologies.
 
-**Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore voluptate, culpa possimus dolorem optio saepe, quidem facere repudiandae sapiente, ab tenetur sed ullam, maxime minima tempora provident dignissimos hic placeat!**
+As part of the HRSDC Web Standards Subject Matter Expert (SME) group it was my role to test the web content using TBS testing and evaluation methodologies, filling out a report and send it back to those who were responsible for the web content / application.
 
 ### Basic knowledge of .NET, JAVA, CSS, HTML, XML, AJAX, jQuery.
 
@@ -53,42 +53,39 @@ Active member of the Web Experience Toolkit (WET), including creating and fixing
 
 ### Ability to communicate effectively orally.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod iure dicta, nulla dolor eveniet ullam possimus, deserunt temporibus fugit voluptates rem, ducimus accusantium? Quis facere cumque magni totam, nihil sapiente.
+I take part in different working groups which have regular meetings that I attend via telephone conference and participate in the discussions at those meetings.
 
 ### Ability to communicate effectively in writing.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem sapiente sunt enim, atque dolor ipsum non commodi reprehenderit, impedit quis optio ducimus officia odio dicta minima, neque voluptates. Eveniet, vero.
+Due to working remotely in Montreal a large portion of my job is done via email. I often need to communicate via email to clients, colleagues and others in the Government of Canada web community.  
 
 ### Ability to establish priorities and meeting deadlines.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt vitae, laborum animi! Iusto magnam quam, fugiat dignissimos praesentium. Ipsum labore ab nobis sapiente, suscipit? Quis, veritatis. Nostrum, incidunt, soluta.
+Dealing with high profile clients like PCO, Adobe and TBS on a daily basis I often have to deal with conflicting deadlines and priorities. I often have to negotiate with clients to schedule different releases of products.
 
 ## Competencies
 
 ### Analytical thinking.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque praesentium dolorem molestias ullam qui maiores dignissimos ipsum, reiciendis architecto distinctio harum eveniet velit, cumque odio ipsam vitae esse quod voluptates.
+The Web Experience Toolkit (WET) recently became Service Canada's responsibility and without much knowledge on how the system worked, I had to think analytically on ways to keep the system working flawlessly with the little knowledge I already had about the system.
+
+Because of my analytical thinking, colleagues always come to me to help problem solve their WET issues. 
 
 ## Personal Suitability
 
 ### Client focus.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius vitae doloribus excepturi voluptate hic necessitatibus soluta sint adipisci est incidunt in tempora atque accusantium ut quidem sunt, vel, nesciunt laborum?
+**Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius vitae doloribus excepturi voluptate hic necessitatibus soluta sint adipisci est incidunt in tempora atque accusantium ut quidem sunt, vel, nesciunt laborum?**
 
 ## Operational Requirements
 
 ### Willingness to travel
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima provident alias libero similique velit, debitis neque molestias consequuntur quidem dolore adipisci tenetur temporibus, hic nemo. Commodi rerum sint veniam possimus!
+I presently have a Blanket Travel Authority (BTA) signed that allows me to travel to Ottawa for 1 week every month until Canada.ca is fully integrated into the Above Experience Manager system. 
 
 ### Willingness to work overtime
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus velit quod ut impedit vitae, adipisci cumque sint veniam laborum eum fugit rem! Doloribus, veniam vel aperiam, doloremque tempora eum repudiandae.
+I am willing to work overtime whenever needed.
 
-## Conditions Of Employment
-
-### Reliability Status security clearance
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati porro debitis aperiam quibusdam, ab repellendus eligendi nobis! Fugiat debitis, facilis, quos aliquam enim ratione officiis hic quisquam perspiciatis. Dolor, ratione.
 
 I look forward to taking the exam and meeting with you to discuss how I would be a great fit in your team of experts.
