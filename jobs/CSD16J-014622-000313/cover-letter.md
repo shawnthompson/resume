@@ -188,13 +188,13 @@ Because of my my ability to solve problems quickly, colleagues always come to me
 
 ### Client focus.
 
-I excel in customer service and client interaction. I am known by colleagues and clients as someone who is approachable and will take the time to listen to concerns and issues regarding our work, and seek to find solutions that will meet or exceed their needs. I have participated in events such as Codefest and Gtec Summit where I was able to interact with my audience and received positive feedback. I enjoy meeting and learning from others and I value the different experience that we all bring to projects.
+I excel in customer service and client interaction. I am known by colleagues and clients as someone who is approachable and will take the time to listen to concerns and issues regarding our work, and seek to find solutions that will meet or exceed their needs. I have participated in events such as Codefest and this year's Gtec Summit where I was able to interact with my audience and received positive feedback. I enjoy meeting and learning from others and I value the different experience that we all bring to projects.
 
 ## Operational Requirements
 
 ### Willingness to travel
 
-I presently have a Blanket Travel Authority (BTA) signed that allows me to travel to NCR for 1 week every month until Canada.ca is fully integrated into the Above Experience Manager system.
+I presently have been authorized a Blanket Travel Authority (BTA) that allows me to travel to NCR for 1 week every month to help with the integration of Canada.ca fully into the Above Experience Manager system. 
 
 ### Willingness to work overtime
 
