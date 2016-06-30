@@ -2,7 +2,7 @@
 
 ## Career profile
 
-Dedicated front end web developer with experience in creating webpage that comply with [World Wide Web Consortium (W3C)](http://www.w3.org/) and [Treasury Board of Canada Secretariat (TBS)](http://www.tbs-sct.gc.ca/ws-nw/index-eng.asp) standards for the web.
+Dedicated front end web developer with experience in creating webpages that comply with [World Wide Web Consortium (W3C)](http://www.w3.org/) and [Treasury Board of Canada Secretariat (TBS)](http://www.tbs-sct.gc.ca/ws-nw/index-eng.asp) standards for the web.
 
 ## Personal suitability
 
@@ -47,7 +47,7 @@ Web (Front end) Specialist (front end) - Web Channel Office - Usability and Desi
 ### September 2013 – December 2013 — Service Canada—Ottawa, Ont. (Acting AS-04)  
 Web Specialist - Web Channel Office - Design Team
 
-*   Planned, developped, tested for the initial launched of new [Canada.ca](http://canada.ca/en/index.html) site in December 2013.
+*   Planned, developed, tested for the initial launched of new [Canada.ca](http://canada.ca/en/index.html) site in December 2013.
 
 ### July 2008 – September 2013 — Service Canada — Ottawa, Ont.  
 Web Specialist - Web Channel Office - Web Publishing Team (AS-03)
@@ -111,7 +111,7 @@ Web Specialist - Web Channel Office - Web Publishing Team (AS-03)
 *   Learning HTML5
 *   CSS: Advanced Layout Techniques Including CSS
 
-### Certificated from [Lynda.com]() in the following:
+### Certificates from [Lynda.com]() in the following:
 
 *   Administering Google Apps
 *   Web Workflows with Grunt.js
@@ -138,11 +138,18 @@ Web Specialist - Web Channel Office - Web Publishing Team (AS-03)
 *   Setting Up PHP 5 for Windows with Apache or IIS
 *   Windows 7 Essential Training
 
+### Other training sessions
+
+*   The ‘Web Accessibility Standard for the Government of Canada’ course (3 days – Canada School of the Public Service (CSPS) 
+*   WCAG 2.0 Assessment Methodology (ESDC in-house training)
+*   An overview of Assistive Technologies (AT) and how they are used (ESDC in-house training)
+
 ## Additional professional activities
 
 *   Assisted in organizing the a11yMTL 2014 Unconference - November 2014
 *   Presented at the a11yMTL 2014 Unconference on the subject of using semantic HTML elements to mark up a web page for accessibility - November 2014
-*   Animated a learning [session about Jekyll and Github pages](http://wet-boew.github.io/codefest/sessions-en.html%23shawnt-session-title) at CodeFest 2014. - August 2014
+*   Animated a learning session about Jekyll and Github pages at CodeFest 3 - August 2014
+*   Animated a learning sessions about _gh-pages on Github.com_ and _Sublime Text 3_ at CodeFest 4 - February 2016
 *   Participate in monthly HTML5, JavaScript and Montreal Developers user group functions to discuss advancements in each related topic - Ongoing
 
 ## Volunteer experience
