@@ -63,9 +63,9 @@ When I was part of the Service Canada internet publishing team, one of my main r
 
 I work closely with Treasury Board of Canada Secretariat (TBS) when developing the template pages for the Canada.ca theme in the Web Experience Toolkit (WET), often making recommendations to change their Content and Information Architecture Specification to better fit the website. We have weekly meetings to discuss changes to the Specification, trying to predict any conflicts that will come when building the HTML versions of the required templates.
 
-In Montreal, I sit near IT developers which I often provide assistance to these developers with front end Web Experience Toolkit (WET) support with how to use the WET framework with their web applications. I have also held weekly WET codesprints in my office and invited them to join. 
+In Montreal, I sit near IT developers which I often provide assistance to these developers with front end Web Experience Toolkit (WET) support with how to use the WET framework within their web applications. I have also held weekly WET codesprints in my office and invited them to join. 
 
-I support the Content Delivery Network (CDN) solution for the Government of Canada (GoC) activities and initiatives that are found on all the GoC websites. If something goes wrong with the application for the users, I get calls off hours and help trouble shoot what went wrong with the change they made. There is not much documentation on how this application works so I often have to figure out how it works and how it can be fixed.  
+I support the Content Delivery Network (CDN) solution for the Government of Canada (GoC) activities and initiatives that are found on all the GoC websites. If something goes wrong with the application for the users, I often get calls off hours and help trouble shoot what went wrong with the change they made. There is not much documentation on how this application works so I often have to figure out how it works and how it can be fixed.  
 
 ### Experience in providing support to IM/IT activities/projects for multiple clients, appropriately prioritizing workload and meeting deadlines in a multi-tasking environment.
 
@@ -73,7 +73,7 @@ Presently have multiple projects that are my responsibility. Project range from 
 
 #### GCWeb theme 
 
-Develop and maintain GCWeb theme for the Government of Canada's Web Experience Toolkit (WET) project on GitHub.com. This involves analyzing the templates in the Content and Information Architecture (IA) Specification written by TBS and turning them into HTML version of the layout defined in the document. The document is constantly changing, which means I need to assess which templates are being used on the site and what changes need to be prioritized. 
+Develop and maintain GCWeb theme for the Government of Canada's Web Experience Toolkit (WET) project on GitHub.com. This involves analyzing the templates in the Content and Information Architecture (IA) Specification written by TBS and turning them into HTML version of the layouts defined in the document. The document is constantly changing, which means I need to assess which templates are being used on the site and what changes need to be prioritized. 
 
 #### Web Experience Toolkit (WET)
 
