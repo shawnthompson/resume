@@ -97,7 +97,7 @@ I was part of the HRSDC (now ESDC) Web Standards Subject Matter Expert (SME) gro
 
 I was also part of a team that audited pages on ServiceCanada.gc.ca to ensure they comply with the TBS standards on Accessibility, Interoperability and Mobility. Me another colleague would be notified when a page on the site was updated and we would run a series of tests to these pages comply to the standards.
 
-I worked on coding individual web pages for the Service Canada internet, and provided clients with advice on the best way to present their material while maintaining the TBS standards for the Web. I was also involved in creating training materials for clients and training them on the best ways to produce web content. I learned that helping people to understand the needs of the web and my team allowed for much better communication of ideas and cooperation between the various Service Canada businesses
+I worked on coding individual web pages for the Service Canada internet, and provided clients with advice on the best way to present their material while maintaining the TBS standards for the Web. I was also involved in creating training materials for clients and training them on the best ways to produce web content. I learned that helping people to understand the needs of the web and my team allowed for much better communication of ideas and cooperation between the various Service Canada business stakeholders.
 
 ### Experience with HTML, CSS and JavaScript.
 
