@@ -52,8 +52,6 @@ In 2003, I graduated with a diploma in Multi Media Design and Production, which 
 
 * Web Technology Fundamentals
 
-* WordPress Essential Training (2014)
-
 * JavaScript and AJAX
 
 * Up and Running with Bootstrap 3
