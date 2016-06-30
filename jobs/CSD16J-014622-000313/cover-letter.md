@@ -68,6 +68,12 @@ In 2003, I graduated with a diploma in Multi Media Design and Production, which 
 
 * Setting Up PHP 5 for Windows with Apache or IIS
 
+### Other training sessions
+
+*   The ‘Web Accessibility Standard for the Government of Canada’ course (3 days – Canada School of the Public Service (CSPS) 
+*   WCAG 2.0 Assessment Methodology (ESDC in-house training)
+*   An overview of Assistive Technologies (AT) and how they are used (ESDC in-house training)
+
 ## Experience
 
 ### Experience analyzing business/client requirements.
