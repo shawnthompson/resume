@@ -240,7 +240,7 @@ I excel in customer service and client interaction. I am known by colleagues and
 
 ### Willingness to travel
 
-I presently have a Blanket Travel Authority (BTA) signed that allows me to travel to Ottawa for 1 week every month until Canada.ca is fully integrated into the Above Experience Manager system.
+I presently have a Blanket Travel Authority (BTA) signed that allows me to travel to NCR for 1 week every month until Canada.ca is fully integrated into the Above Experience Manager system.
 
 ### Willingness to work overtime
 
