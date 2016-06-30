@@ -8,7 +8,7 @@ Currently working as, a front end developer with Service Canada on the Web Renew
 
 In 2003, I graduated with a diploma in Multi Media Design and Production, which was a 2-year program from Fanshawe College in London, Ontario. While I was studying my primary focus was on Web Development learning HTML, JavaScript, ASP, Cold Fusion and Flash. Throughout the years working at Service Canada, I acquired many certificates from Eliquo Training and Development and Lynda.com online training, as well as a few from the School of Public Service. They are listed below:
 
-### Certificates from[ Eliquo](http://en.eliquo.ca/) Training and Development:
+### Certificates from Eliquo Training and Development:
 
 * WCAG 2.0: Understanding the Web Content Accessibility Guidelines
 
@@ -34,7 +34,7 @@ In 2003, I graduated with a diploma in Multi Media Design and Production, which 
 
 * CSS: Advanced Layout Techniques Including CSS
 
-### Certificates from [Lynda.com](https://github.com/shawnthompson/resume/blob/jobs/jobs/CSD16J-014622-000313):
+### Certificates from Lynda.com:
 
 * Web Workflows with Grunt.js
 
