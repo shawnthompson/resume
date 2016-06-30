@@ -83,7 +83,7 @@ Service Canada took over the responsibility from TBS for the WET project. My res
 
 These requests are treated as high priority and need to be deal with as soon as they come in. The requests range from 
 
-* adding code to the WET framework for a need for one of PCO’s webpages in AEM
+* adding code to the WET framework that is needed for one of PCO’s webpages in AEM
 * updating a WET plugin to support a feature they want to add to the site
 * mockup an HTML page layout with the WET framework that they supply us for a promotional page on Canada.ca
 
@@ -95,7 +95,7 @@ Create technical specification for the web components that the on boarding sites
 
 I was part of the HRSDC (now ESDC) Web Standards Subject Matter Expert (SME) group where I was responsible for the review of web content and/or web application output for a specific groups within Service Canada and verify that they were complying with Treasury Board of Canada Secretariat (TBS) Web Standards.
 
-I was also part of a team that audited pages on ServiceCanada.gc.ca to ensure they comply with the TBS standards on Accessibility, Interoperability and Mobility.
+I was also part of a team that audited pages on ServiceCanada.gc.ca to ensure they comply with the TBS standards on Accessibility, Interoperability and Mobility. Me another colleague would be notified when a page on the site was updated and we would run a series of tests to these pages comply to the standards.
 
 I worked on coding individual web pages for the Service Canada internet, and provided clients with advice on the best way to present their material while maintaining the TBS standards for the Web. I was also involved in creating training materials for clients and training them on the best ways to produce web content. I learned that helping people to understand the needs of the web and my team allowed for much better communication of ideas and cooperation between the various Service Canada businesses
 
