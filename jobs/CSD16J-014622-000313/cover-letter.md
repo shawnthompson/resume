@@ -11,66 +11,41 @@ In 2003, I graduated with a diploma in Multi Media Design and Production, which 
 ### Certificates from Eliquo Training and Development:
 
 * WCAG 2.0: Understanding the Web Content Accessibility Guidelines
-
 * Overview of WCAG: Web Content Accessibility Guidelines
-
 * Adobe Acrobat Pro: Accessible PDFs with WCAG 2.0
-
 * WET: Implementing the Standard on Web Interoperability
-
 * Web Experience Toolkit (WET): Migrating to WET and the Usability Theme
-
 * Web Experience Toolkit (WET) for Designers and Developers
-
 * JavaScript: Advanced Scripting
-
 * jQuery
-
 * PHP: An Introduction
-
 * PHP: Advanced Scripting
-
 * Learning HTML5
-
 * CSS: Advanced Layout Techniques Including CSS
 
 ### Certificates from Lynda.com:
 
 * Web Workflows with Grunt.js
-
 * Up and Running with AngularJS 1
-
 * Node.js First Look
-
 * CSS: Flexbox First Look
-
 * JavaScript Templating
-
 * Web Semantics
-
 * Foundations of UX: Usability Testing (2013)
-
 * Web Technology Fundamentals
-
 * JavaScript and AJAX
-
 * Up and Running with Bootstrap 3
-
 * CSS with LESS and Sass
-
 * Mobile Web Design & Development Fundamentals
-
 * jQuery Mobile Essential Training
-
 * Setting Up MySQL 5 for PHP in Windows
-
 * Setting Up PHP 5 for Windows with Apache or IIS
 
 ### Other training sessions
 
-*   The ‘Web Accessibility Standard for the Government of Canada’ course (3 days – Canada School of the Public Service (CSPS) 
-*   WCAG 2.0 Assessment Methodology (ESDC in-house training)
-*   An overview of Assistive Technologies (AT) and how they are used (ESDC in-house training)
+* The ‘Web Accessibility Standard for the Government of Canada’ course (3 days – Canada School of the Public Service (CSPS) 
+* WCAG 2.0 Assessment Methodology (ESDC in-house training)
+* An overview of Assistive Technologies (AT) and how they are used (ESDC in-house training)
 
 ## Experience
 
@@ -109,9 +84,7 @@ Service Canada took over the responsibility from TBS for the WET project. My res
 These requests are treated as high priority and need to be deal with as soon as they come in. The requests range from 
 
 * adding code to the WET framework for a need for one of PCO’s webpages in AEM
-
 * updating a WET plugin to support a feature they want to add to the site
-
 * mockup an HTML page layout with the WET framework that they supply us for a promotional page on Canada.ca
 
 #### Adobe Experience Manager on boarding
@@ -147,35 +120,22 @@ My present daily responsibility involves working with HTML, CSS, JavaScript and 
 #### Certificates from Eliquo
 
 * Web Experience Toolkit (WET) for Designers and Developers
-
 * JavaScript: Advanced Scripting
-
 * jQuery
-
 * Learning HTML5
-
 * CSS: Advanced Layout Techniques Including CSS
 
 #### Courses from Lynda.com
 
 * Web Workflows with Grunt.js
-
 * Up and Running with AngularJS 1
-
 * Node.js First Look
-
 * CSS: Flexbox First Look
-
 * JavaScript Templating
-
 * Web Semantics
-
 * Web Technology Fundamentals
-
 * JavaScript and AJAX
-
 * CSS with LESS and Sass
-
 * jQuery Mobile Essential Training
 
 ### Knowledge of Web Experience Toolkit and GitHub.
@@ -183,9 +143,7 @@ My present daily responsibility involves working with HTML, CSS, JavaScript and 
 I am an active member of the Web Experience Toolkit (WET), including creating and fixing issues, making changes to the project, creating theme pages. I lead training sessions on a regular basis on the workings of WET and how to contribute to the Open Source community on Github. I have participated in events such as CodeFest where I presented a seminars on using Jekyll with Github and using Github’s gh-page branch. Additionally, I have taken the following course on these subjects, and continue to keep my knowledge base up to date.
 
 * WET: Implementing the Standard on Web Interoperability
-
 * Web Experience Toolkit (WET): Migrating to WET and the Usability Theme
-
 * Web Experience Toolkit (WET) for Designers and Developers
 
 ## Abilities
@@ -199,17 +157,11 @@ In 2014, I gave a talk at the a11yMTL Unconference on the subject of using seman
 I am an active member in the following groups and committees: 
 
 * Web Interoperability working group / HTML Data sub-committee
-
 * Search Optimization Working Group (SOWG) 
-
 * User experience working group
-
 * Migration and onboarding working group
-
 * Adobe AEM/CQ User Group - Montreal Chapter
-
 * HTML5 Montréal
-
 * a11yMTL - Montreal Web Accessibility
 
 ### Ability to communicate effectively in writing.
