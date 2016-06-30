@@ -180,7 +180,7 @@ Dealing with high profile clients like PCO, Adobe and TBS on a daily basis I oft
 
 The Web Experience Toolkit (WET) recently became Service Canada's responsibility and without much knowledge on how the system worked, I had to think analytically on ways to keep the system working flawlessly with the little knowledge I already had about the system.
 
-Often when prioritizing tasks I use analytical thinking to determine how much time it will take to accomplish a task, any efficient solutions and where I can fit them into my daily schedule. I start the morning by organizing my tasks by priority, time it will take and if I can get a colleague to help with any of my tasks.  
+Often when prioritizing tasks I use analytical thinking to determine how much time it will take to accomplish a task, any efficient solutions and where I can fit them into my daily schedule. I begin my day by organizing the tasks that need to be completed.  
 
 Because of my my ability to solve problems quickly, colleagues always come to me to help problem solve their WET issues.
 
