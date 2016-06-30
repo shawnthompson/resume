@@ -1,5 +1,7 @@
 # Shawn Thompson
 
+URL: https://github.com/shawnthompson/resume/blob/master/jobs/CSD16J-014622-000313/resume.md
+
 ## Career profile
 
 Dedicated front end web developer with experience in creating webpages that comply with [World Wide Web Consortium (W3C)](http://www.w3.org/) and [Treasury Board of Canada Secretariat (TBS)](http://www.tbs-sct.gc.ca/ws-nw/index-eng.asp) standards for the web.
