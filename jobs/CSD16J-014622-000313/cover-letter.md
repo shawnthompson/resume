@@ -51,17 +51,17 @@ In 2003, I graduated with a diploma in Multi Media Design and Production, which 
 
 ### Experience analyzing business/client requirements.
 
-Working on creating technical specification documents for Adobe Experience Manager (AEM) components for Canada.ca from requirements sent to me from the Adobe Business Analysis team. This job involves evaluating the client’s needs and determination the best approach in creating a document for the developers to build the component to specifications. This process includes scrum meeting twice a week to ensure the application developer has all they need before they start development.
+Working on creating technical specification documents for Adobe Experience Manager (AEM) components for Canada.ca from requirements sent to me from the Adobe Business Analysis team. This job involves evaluating the client’s needs and determination the best approach in creating a document for the developers to build the component to specifications. This process includes scrum meetings twice a week to ensure the application developer has all they need before they start development.
 
 In my current position I create technical web components specification for the Treasury Board of Canada Secretariat (TBS) Content and Information Architecture Specifications document based on business needs of the clients.
 
-As part of the Principle Publisher team for the Web Renewal Initiative, I often get request from other on boarding departments to create new components for the Canada.ca website and I have to analyze if what the client is asking is either already possible, needs modification of something that is present or needs to be developed from scratch.
+As part of the Principle Publisher team for the Web Renewal Initiative, I often get requests from other on boarding departments to create new components for the Canada.ca website and I have to analyze if what the client is asking is either already possible, needs modification of something that is present or needs to be developed from scratch.
 
 When I was part of the Service Canada internet publishing team, one of my main responsibilities was to take request from clients, analyze their needs and triage it to a colleague who was best suited for the task. Once the employee was finished the job, I would have to review their work and give feedback before sending it back to the client for final review.
 
 ### Experience providing advice, options and recommendations in the definition, development and implementation of IM/IT solutions.
 
-I work closely with Treasury Board of Canada Secretariat (TBS) when developing the template pages for the Canada.ca theme in the Web Experience Toolkit (WET), often making recommendations to change their Content and Information Architecture Specification to better fit the website. We have weekly meetings to discuss changes to the Specification, trying to predict any conflicts when building the HTML versions of the required templates.
+I work closely with Treasury Board of Canada Secretariat (TBS) when developing the template pages for the Canada.ca theme in the Web Experience Toolkit (WET), often making recommendations to change their Content and Information Architecture Specification to better fit the website. We have weekly meetings to discuss changes to the Specification, trying to predict any conflicts that will come when building the HTML versions of the required templates.
 
 In Montreal, I sit near IT developers which I often provide assistance to these developers with front end Web Experience Toolkit (WET) support with how too use the WET framework with their web applications. I have also held weekly WET codesprints in my office and invited them to join. 
 
