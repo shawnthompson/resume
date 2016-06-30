@@ -1,4 +1,4 @@
-# Cover Letter
+# Shawn Thompson - Cover Letter
 
 Applicant Number: S407476
 
