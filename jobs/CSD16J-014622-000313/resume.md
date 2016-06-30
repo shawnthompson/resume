@@ -10,18 +10,10 @@ Dedicated front end web developer with experience in creating webpages that comp
 *   Ability to meet deadlines in a high volume environment and adhere to established budgets
 *   Attentive to detail
 *   Awareness, knowledge and application of the Government of Canada Policies (Internet and Accessibility)
-*   Excellent computer skills 
-*   Effective interpersonal skills
 *   Excellent at solving problems rapidly and effectively 
 *   Experience, knowledge and application of the World Wide Web Consortium (W3C) standards
 *   Extensive experience in accessing and processing information 
-*   First-rate computer skills 
-*   Flexibility
-*   Fluently bilingual in both English and French (BBC)
-*   Good organizational skills
 *   Hard-working and dependable
-*   Initiative
-*   Judgment
 *   Strong leaderships skills
 *   Work well under pressure
 
@@ -37,7 +29,7 @@ Dedicated front end web developer with experience in creating webpages that comp
 Web (Front end) Specialist (front end) - Web Channel Office - Usability and Design Team
 
 *   Develop and maintain [GCWeb theme](https://github.com/wet-boew/GCWeb) for the Government of Canada's [Web Experience Toolkit (WET)](https://github.com/wet-boew) project on [GitHub.com](https://github.com/).
-*	Administrator and contributor on the Web Experience Toolkit (WET) open source project.
+*   Administrator and contributor on the Web Experience Toolkit (WET) open source project.
 *   Work with the early adopters of the [Canada.ca](https://canada.ca/en/) theme in implementing the theme on their own websites.
 *   Prepare procedures for colleagues to explain how to use git and how to publish to the Canada.ca theme on Github.com.
 *   Chaired weekly “codesprints” at Concordia University to encourage students and staff involvement in the Government of Canada’s open source Web Experience Toolkit project.  
@@ -73,7 +65,6 @@ Web Specialist - Web Channel Office - Web Publishing Team (AS-03)
 
 ### Computer software:
 
-*   Adobe: Photoshop, Illustrator, Dreamweaver, Premiere, Flash, Acrobat X, Lightroom 5
 *   Adobe Experience Manager Development
 *   Git and Microsoft Visual SafeSource
 *   Microsoft Office 2010: Word, PowerPoint, Outlook, Excel, SharePoint
@@ -89,7 +80,6 @@ Web Specialist - Web Channel Office - Web Publishing Team (AS-03)
     *   JSON
     *   node.js
     *   grunt
-    *   assemble.js
     *   angular.js
 *   Ajax
 *   PHP
@@ -113,30 +103,22 @@ Web Specialist - Web Channel Office - Web Publishing Team (AS-03)
 
 ### Certificates from [Lynda.com]() in the following:
 
-*   Administering Google Apps
 *   Web Workflows with Grunt.js
 *   Up and Running with AngularJS 1
-*   Foundations of Photography: Flash
 *   Node.js First Look
 *   CSS: Flexbox First Look
 *   JavaScript Templating
 *   Web Semantics
-*   Protecting Yourself from the Heartbleed Bug
 *   Foundations of UX: Usability Testing (2013)
 *   Web Technology Fundamentals
-*   Start with a Theme: Creative Portfolios in WordPress
-*   Start with a Theme: Twenty Fourteen
 *   WordPress Essential Training (2014)
 *   JavaScript and AJAX
 *   Up and Running with Bootstrap 3
 *   CSS with LESS and Sass
 *   Mobile Web Design & Development Fundamentals
-*   Dreamweaver CS6 New Features
 *   jQuery Mobile Essential Training
-*   Dreamweaver CS5.5 New Features
 *   Setting Up MySQL 5 for PHP in Windows
 *   Setting Up PHP 5 for Windows with Apache or IIS
-*   Windows 7 Essential Training
 
 ### Other training sessions
 
