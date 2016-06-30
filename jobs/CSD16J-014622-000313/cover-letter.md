@@ -246,3 +246,6 @@ I am willing to work overtime whenever needed.
 
 I look forward to taking the exam and meeting with you to discuss how I would be a great fit in your team of experts.
 
+Thank you,
+Shawn Thompson
+(613) 363-7468
