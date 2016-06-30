@@ -63,7 +63,7 @@ When I was part of the Service Canada internet publishing team, one of my main r
 
 I work closely with Treasury Board of Canada Secretariat (TBS) when developing the template pages for the Canada.ca theme in the Web Experience Toolkit (WET), often making recommendations to change their Content and Information Architecture Specification to better fit the website. We have weekly meetings to discuss changes to the Specification, trying to predict any conflicts that will come when building the HTML versions of the required templates.
 
-In Montreal, I sit near IT developers which I often provide assistance to these developers with front end Web Experience Toolkit (WET) support with how too use the WET framework with their web applications. I have also held weekly WET codesprints in my office and invited them to join. 
+In Montreal, I sit near IT developers which I often provide assistance to these developers with front end Web Experience Toolkit (WET) support with how to use the WET framework with their web applications. I have also held weekly WET codesprints in my office and invited them to join. 
 
 I support the Content Delivery Network (CDN) solution for the Government of Canada (GoC) activities and initiatives that are found on all the GoC websites. If something goes wrong with the application for the users, I get calls off hours and help trouble shoot what went wrong with the change they made. There is not much documentation on how this application works so I often have to figure out how it works and how it can be fixed.  
 
