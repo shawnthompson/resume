@@ -80,8 +80,6 @@ As part of the Principle Publisher team for the Web Renewal Initiative, I often 
 
 When I was part of the Service Canada internet publishing team, one of my main responsibilities was to take request from clients, analyze their needs and triage it to a colleague who was best suited for the task. Once the employee was finished the job, I would have to review their work and give feedback before sending it back to the client for final review.
 
-Add a paragraph here about your experience working with principal publishers when Canada.ca first started, and about your work in publishing with SC internet. You had to analyze client requirements for each task and provide sound recommendations. And adding this info gives you a greater breadth of experience.
-
 ### Experience providing advice, options and recommendations in the definition, development and implementation of IM/IT solutions.
 
 I work closely with Treasury Board of Canada Secretariat (TBS) when developing the template pages for the Canada.ca theme in the Web Experience Toolkit (WET), often making recommendations to change their Content and Information Architecture Specification to better fit the website. We have weekly meetings to discuss changes to the Specification, trying to predict any conflicts when building the HTML versions of the required templates.
