@@ -101,7 +101,7 @@ I worked on coding individual web pages for the Service Canada internet, and pro
 
 ### Experience with HTML, CSS and JavaScript.
 
-I built the template pages for the Web Experience Toolkit (WET) Canada.ca theme from the requirements set by the Content and Information Architecture Specification using HTML and CSS for the layout, while using Javascript for any functional needs. I have been using HTML, CSS and Javascript on a daily basis for the 10 years as a member of web publishing and design teams in the Government of Canada. I regularly attend workshops, codesprints and take courses to ensure that my knowledge and experience with this software is current.
+I build the template pages for the Web Experience Toolkit (WET) Canada.ca theme from the requirements set by the Content and Information Architecture Specification using HTML and CSS for the layout, while using Javascript for any functional needs. I have been using HTML, CSS and Javascript on a daily basis for the 10 years as a member of web publishing and design teams in the Government of Canada. I regularly attend workshops, codesprints and take courses to ensure that my knowledge and experience with this software is current.
 
 ## Knowledge
 
@@ -111,7 +111,7 @@ On a daily basis, I need to ensure the web pages I create follow all of Treasury
 
 ### Knowledge of TBS Web Standards testing and evaluation methodologies.
 
-As part of the HRSDC Web Standards Subject Matter Expert (SME) group it was my role to test the web content using TBS testing and evaluation methodologies, filling out a report and send it back to those who were responsible for the web content / application. I helped develop a check-list that my clients were able to use, based upon the TBS Web standards and I worked closely with the publishing Quality Assurance (QA) team to help ensure that all completed material was consistent and compliant.
+As part of the HRSDC Web Standards Subject Matter Expert (SME) group it was my role to test web content using TBS testing and evaluation methodologies, filling out a report and send it back to those who were responsible for the web content / application. I helped develop a check-list that my clients were able to use, based upon the TBS Web standards and I worked closely with the publishing Quality Assurance (QA) team to help ensure that all completed material was consistent and compliant.
 
 ### Basic knowledge of .NET, JAVA, CSS, HTML, XML, AJAX, jQuery.
 
@@ -140,7 +140,7 @@ My present daily responsibility involves working with HTML, CSS, JavaScript and 
 
 ### Knowledge of Web Experience Toolkit and GitHub.
 
-I am an active member of the Web Experience Toolkit (WET), including creating and fixing issues, making changes to the project, creating theme pages. I lead training sessions on a regular basis on the workings of WET and how to contribute to the Open Source community on Github. I have participated in events such as CodeFest where I presented a seminars on using Jekyll with Github and using Github’s gh-page branch. Additionally, I have taken the following course on these subjects, and continue to keep my knowledge base up to date.
+I am an active member of the Web Experience Toolkit (WET), including creating and fixing issues, making changes to the project, creating theme pages. I lead training sessions on a regular basis on the workings of WET and how to contribute to the Open Source community on Github. I have participated in events such as CodeFest where I presented seminars on using Jekyll with Github and using Github’s gh-page branch. Additionally, I have taken the following course on these subjects, and continue to keep my knowledge base up to date.
 
 * WET: Implementing the Standard on Web Interoperability
 * Web Experience Toolkit (WET): Migrating to WET and the Usability Theme
@@ -168,11 +168,11 @@ I am an active member in the following groups and committees:
 
 Due to my working remotely in Montreal a large portion of my job is done via email. I often need to communicate via email to clients, colleagues and others in the Government of Canada web community. I am comfortable and skilled in written communications and am able to tailor my messages to suit my intended audience. My experience in creating training materials for various groups has helped me in this area.
 
-The technical specifications documents I write for the Adobe Experience Manager developers have broadened my written skills to include technical writing which involves logical and analytical 
+The technical specifications documents I write for the Adobe Experience Manager developers have broadened my written skills to include technical writing which involves descriptive and analytical styles of writing.
 
 ### Ability to establish priorities and meeting deadlines.
 
-Dealing with high profile clients like PCO, Adobe and TBS on a daily basis I often have to deal with conflicting deadlines and priorities. I often have to negotiate with clients to schedule different releases of products. I am adept at working with others in order to ensure that my tasks and completed in a timely manner. I am able to work on many projects simultaneously and meet my targets.
+Dealing with high profile clients like PCO, Adobe and TBS on a daily basis I often have to deal with conflicting deadlines and priorities. I often have to negotiate with clients to schedule different releases of products. I am adept at working with others in order to ensure that my tasks are completed in a timely manner. I am able to work on many projects simultaneously and meet my targets.
 
 ## Competencies
 
@@ -180,9 +180,9 @@ Dealing with high profile clients like PCO, Adobe and TBS on a daily basis I oft
 
 The Web Experience Toolkit (WET) recently became Service Canada's responsibility and without much knowledge on how the system worked, I had to think analytically on ways to keep the system working flawlessly with the little knowledge I already had about the system.
 
-Often when prioritizing tasks I use analytical thinking to determine how much time it will take to accomplish a task, any efficient solutions and fit them into my daily schedule. I start the morning by organizing my tasks by priority, time it will take and if I can get a colleague to help with any of my tasks.  
+Often when prioritizing tasks I use analytical thinking to determine how much time it will take to accomplish a task, any efficient solutions and where I can fit them into my daily schedule. I start the morning by organizing my tasks by priority, time it will take and if I can get a colleague to help with any of my tasks.  
 
-Because of my analytical thinking, colleagues always come to me to help problem solve their WET issues.
+Because of my my ability to solve problems quickly, colleagues always come to me to help problem solve their WET issues.
 
 ## Personal Suitability
 
