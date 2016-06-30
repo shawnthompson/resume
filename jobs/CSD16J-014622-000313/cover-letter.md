@@ -57,7 +57,7 @@ In my current position I create technical web components specification for the T
 
 As part of the Principle Publisher team for the Web Renewal Initiative, I often get requests from other on boarding departments to create new components for the Canada.ca website and I have to analyze if what the client is asking is either already possible, needs modification of something that is present or needs to be developed from scratch.
 
-When I was part of the Service Canada internet publishing team, one of my main responsibilities was to take request from clients, analyze their needs and triage it to a colleague who was best suited for the task. Once the employee was finished the job, I would have to review their work and give feedback before sending it back to the client for final review.
+When I was part of the Service Canada internet publishing team, one of my main responsibilities was to take request from clients, analyze their needs and delegate it to a colleague who was best suited for the task. Once the employee was finished the job, I would have to review their work and give feedback before sending it back to the client for final review.
 
 ### Experience providing advice, options and recommendations in the definition, development and implementation of IM/IT solutions.
 
@@ -180,7 +180,7 @@ Dealing with high profile clients like PCO, Adobe and TBS on a daily basis I oft
 
 The Web Experience Toolkit (WET) recently became Service Canada's responsibility and without much knowledge on how the system worked, I had to think analytically on ways to keep the system working flawlessly with the little knowledge I already had about the system.
 
-Often when prioritizing tasks I use analytical thinking to determine how much time it will take to accomplish a task, any efficient solutions and where I can fit them into my daily schedule. I begin my day by organizing the tasks that need to be completed.  
+Often when prioritizing tasks I use analytical thinking to determine how much time it will take to accomplish a task, any efficient solutions and where I can fit them into my daily schedule. I begin my day by organizing the tasks that need to be completed. I organize them by priority, the time they take to complete, and by whether or not they can be delegated to someone else.  
 
 Because of my my ability to solve problems quickly, colleagues always come to me to help problem solve their WET issues.
 
