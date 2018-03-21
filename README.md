@@ -33,41 +33,55 @@ Dedicated front end web developer with experience in creating accessible webpage
 
 ## Work experience
 
-### January 2014 – Present — Service Canada — Ottawa, Ont.  
-Web (Front end) Specialist (front end) - Web Channel Office - Usability and Design Team
+## October 2016 - Present —  Employment and Social Development Canada (ESDC) — Montreal, Que.
+IM/IT Programmer Analyst — Innovation, Information and Technology — Web Standards Centre of Expertise
 
-*   Develop and maintain [GCWeb theme](https://github.com/wet-boew/GCWeb) for the Government of Canada's [Web Experience Toolkit (WET)](https://github.com/wet-boew) project on [GitHub.com](https://github.com/).
+*   Lead developer on the Centrally Deployed Templates Solution (CDTS) framework used by more than 300 websites and application within the Government of Canada
+*   Administrator of the CDTS project on GCCode (internal Gitlab)
+*   Active contributor on the Web Experience Toolkit (WET) open source project.
+*   Audit ESDC websites and application to unsure conformance to the Web Standards of the Government of Canada
+*   Work with clients on how to make their web applications and content more accessible to all users
+*   Host spontaneous learning sessions with colleagues on various current web technologies such as Git, node.js, structured data (also known as microdata) and the Web Experience Toolkit version 4.0.
+*   Member of the WET 5 working group, developing the future framework for all Government of Canada websites and application to use.
+
+### January 2014 – October 2016 — Service Canada — Ottawa, Ont.  
+Web Specialist (front end) - Web Channel Office - Usability and Design Team
+
+*   Developped and maintained the [GCWeb theme](https://github.com/wet-boew/GCWeb) for the Government of Canada's [Web Experience Toolkit (WET)](https://github.com/wet-boew) project on [GitHub.com](https://github.com/).
 *	Administrator and contributor on the Web Experience Toolkit (WET) open source project.
-*   Work with the early adopters of the [Canada.ca](https://canada.ca/en/) theme in implementing the theme on their own websites.
-*   Prepare procedures for colleagues to explain how to use git and how to publish to the Canada.ca theme on Github.com.
+*   Worked with the early adopters of the [Canada.ca](https://canada.ca/en/) theme in implementing the theme on their own websites.
+*   Prepared procedures for colleagues to explain how to use git and how to publish to the Canada.ca theme on Github.com.
 *   Chaired weekly “codesprints” at Concordia University to encourage students and staff involvement in the Government of Canada’s open source Web Experience Toolkit project.  
 *   Host spontaneous learning sessions with colleagues on various current web technologies such as Git, node.js and the Web Experience Toolkit version 4.0.
 *   Create technical web components specification for the Treasury Board of Canada Secretariat (TBS) Content and Information Architecture Specifications document based on business needs of the clients.
+*   Worked on the Adobe Experience Manager components for Canada.ca using tools such as Java, Jenkins and Apache Maven
 
 ### September 2013 – December 2013 — Service Canada—Ottawa, Ont. (Acting AS-04)  
 Web Specialist - Web Channel Office - Design Team
 
-*   Planned, developed, tested for the initial launched of new [Canada.ca](http://canada.ca/en/index.html) site in December 2013.
+*   Planned, developed, tested for the initial launch of new [Canada.ca](http://canada.ca/en/index.html) site in December 2013.
 
 ### July 2008 – September 2013 — Service Canada — Ottawa, Ont.  
 Web Specialist - Web Channel Office - Web Publishing Team (AS-03)
 
 *   Facilitated learning sessions with clients, colleagues and managers to demonstrate tools such as Dreamweaver, web browser add-ons and other techniques used to develop and maintain Web pages.
 *   Audited webpages that were published to ServiceCanada.gc.ca to ensure compliance with Web Content Accessibility Guidelines (WCAG) 2.0 standards and other Treasury Board of Canada Secretariat (TBS) web standards.
-*   Maintained and organized Web sites using both File Transfer Protocol (FTP) and Interwoven Teamsite as a Content Management System (CMS).
+*   Maintained and organized Websites using both File Transfer Protocol (FTP) and Interwoven Teamsite as a Content Management System (CMS).
 *   Member of the HRSDC Web Standards Subject Matter Expert (SME) group, was responsible for the review of web content and/or web application output for a specific group within the organization.  
-*   Developed and maintained different Government of Canada Web sites including, canada.gc.ca, [servicecanada.gc.ca](http://www.servicecanada.gc.ca/eng/home.shtml), [pwd-online.ca](http://www.pwd-online.gc.ca/pwdh.4m.2@.jsp?lang%3Deng), seniors.gc.ca and [news.gc.ca](http://news.gc.ca/web/index-eng.do).
+*   Developed and maintained different Government of Canada Websites including, canada.gc.ca, [servicecanada.gc.ca](http://www.servicecanada.gc.ca/eng/home.shtml), [pwd-online.ca](http://www.pwd-online.gc.ca/pwdh.4m.2@.jsp?lang%3Deng), seniors.gc.ca and [news.gc.ca](http://news.gc.ca/web/index-eng.do).
 *   Built the [servicecanada.gc.ca](http://servicecanada.gc.ca) template using the WET version 3.1.8 framework.
 
 ## Working groups / Committees / User Groups
 
-*   Web Interoperability working group / HTML Data sub-committee
-*   Search Optimization Working Group (SOWG) 
-*   User experience working group
-*   Migration and onboarding working group
+*   Government of Canada Working Groups
+	*   Access Working Group (AWG)
+	*   Web Interoperability working group / HTML Data sub-committee
+	*   Search Optimization Working Group (SOWG) 
+	*   User experience working group
+	*   Migration and onboarding working group
 *   Adobe AEM/CQ User Group - Montreal Chapter
 *   HTML5 Montréal
-*   a11yMTL - Montreal Web Accessibility
+*   a11yMTL - Montreal Web Accessibility (organizer)
 
 ## Technical knowledge
 
@@ -77,7 +91,7 @@ Web Specialist - Web Channel Office - Web Publishing Team (AS-03)
 *   Adobe Experience Manager Development
 *   Git and Microsoft Visual SafeSource
 *   Microsoft Office 2010: Word, PowerPoint, Outlook, Excel, SharePoint
-*   Content Management Systems: Interwoven’s Teamsite, RedDot, Adobe Experience Manager
+*   Content Management Systems: Interwoven’s Teamsite, RedDot, Adobe Experience Manager, Wordpress
 *   Eclipse
 
 ### Computer languages:
@@ -85,12 +99,10 @@ Web Specialist - Web Channel Office - Web Publishing Team (AS-03)
 *   XHTML, HTML 4.0 and HTML5
 *   Cascading Style Sheet (CSS2 and CSS3, LESS and SASS)
 *   JavaScript
-    *   jQuery
-    *   JSON
-    *   node.js
-    *   grunt
-    *   assemble.js
-    *   angular.js
+	*   jQuery, assembleJS, angularJS
+	*   JSON
+	*   node.js, npm, nvm
+	*   grunt, gulp
 *   Ajax
 *   PHP
 *   .Net
@@ -98,6 +110,7 @@ Web Specialist - Web Channel Office - Web Publishing Team (AS-03)
 
 ### Certificates from[ Eliquo](http://en.eliquo.ca/) in the following:
 
+*   Testing Websites and Documents with Screen Reading Technologies (SRTs) on Mobile for iOS and Android
 *   WCAG 2.0: Understanding the Web Content Accessibility Guidelines
 *   Overview of WCAG: Web Content Accessibility Guidelines
 *   Adobe Acrobat Pro: Accessible PDFs with WCAG 2.0
