@@ -37,7 +37,7 @@ Dedicated front end web developer with experience in creating accessible webpage
 IM/IT Programmer Analyst — Innovation, Information and Technology — Web Standards Centre of Expertise
 
 *   Lead developer on the Centrally Deployed Templates Solution (CDTS) framework used by more than 300 websites and application within the Government of Canada
-*   Administrator of the CDTS project on GCCode (internal Gitlab)
+*   Administrator of the CDTS project on GCCode (internal Gitlab service), 
 *   Active contributor on the Web Experience Toolkit (WET) open source project.
 *   Audit ESDC websites and application to unsure conformance to the Web Standards of the Government of Canada
 *   Work with clients on how to make their web applications and content more accessible to all users
