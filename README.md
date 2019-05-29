@@ -37,7 +37,7 @@ Dedicated front end web developer with experience in creating accessible webpage
 IM/IT Programmer Analyst — Innovation, Information and Technology — Web Standards Centre of Expertise
 
 *   Lead developer on the Centrally Deployed Templates Solution (CDTS) framework used by more than 300 websites and application within the Government of Canada
-*   Administrator of the CDTS project on GCCode (internal Gitlab service), 
+*   Administrator of the CDTS project on GCCode (internal Gitlab service), creating a workflow for others to follow and maintaining reported issues.
 *   Active contributor on the Web Experience Toolkit (WET) open source project.
 *   Audit ESDC websites and application to unsure conformance to the Web Standards of the Government of Canada
 *   Work with clients on how to make their web applications and content more accessible to all users
@@ -47,7 +47,7 @@ IM/IT Programmer Analyst — Innovation, Information and Technology — Web Stan
 ### January 2014 – October 2016 — Service Canada — Ottawa, Ont.  
 Web Specialist (front end) - Web Channel Office - Usability and Design Team
 
-*   Developped and maintained the [GCWeb theme](https://github.com/wet-boew/GCWeb) for the Government of Canada's [Web Experience Toolkit (WET)](https://github.com/wet-boew) project on [GitHub.com](https://github.com/).
+*   Developed and maintained the [GCWeb theme](https://github.com/wet-boew/GCWeb) for the Government of Canada's [Web Experience Toolkit (WET)](https://github.com/wet-boew) project on [GitHub.com](https://github.com/).
 *	Administrator and contributor on the Web Experience Toolkit (WET) open source project.
 *   Worked with the early adopters of the [Canada.ca](https://canada.ca/en/) theme in implementing the theme on their own websites.
 *   Prepared procedures for colleagues to explain how to use git and how to publish to the Canada.ca theme on Github.com.
