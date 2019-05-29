@@ -51,8 +51,11 @@ Successful completion of two years of an acceptable post-secondary educational p
 ### EXPERIENCE:
 
 EX1: Significant* experience collaborating with Information Management / Information Technology (IM/IT) specialists in one or more of the following: conception, planning, design, implementation, support or delivery of IM/IT solutions, initiatives or services.
+
 EX2: Significant* experience in analyzing, developing options and providing IM/IT recommendations in writing to management or clients.
+
 EX3: Experience in one of the following: supervising the work of staff, coaching, assigning or coordinating work.
+
 EX4: Requirement working in one of the following:
 - Stream A: Experience in the IT Accessibility domain.
 - Stream B: Significant experience* in the support or delivery of Passport Operations.
@@ -75,12 +78,19 @@ Professional certification or diploma relevant to the position for which you are
 ### EXPERIENCE
 
 AEX1: Experience in supervising in a virtual environment
+
 AEX2: Experience with Agile methodology.
+
 AEX3: Experience developing Cloud applications in support of IM/IT Solutions
+
 AEX4: Experience in IT Procurement & Asset Management
+
 AEX5: Experience in the documentation of IM/IT Solutions
+
 AEX6: Experience evaluating static and dynamic web based systems against Treasury Board of Canada Secretariat (TBS) Web Standards using an accessibility tool.
+
 AEX7: Experience in software testing (system testing, compliance testing or automated testing)
+
 AEX8: Experience in defining User Stories or Use Cases.
 
 The following will be applied / assessed at a later date (essential for the job)
@@ -92,17 +102,25 @@ Bilingual - Imperative (CBC/CBC)
 ### ABILITIES:
 
 A1 : Ability to communicate effectively orally
+
 A2 : Ability to communicate effectively in writing
+
 A3 : Results oriented
+
 A4: Analytical thinking and problem solving
+
 A5: Ability to work in a team environment
 
 ### PERSONAL SUITABILITY:
 
 PS1: Judgement
+
 PS2: Dependability
+
 PS3: Initiative
+
 PS4: Interpersonal skills
+
 PS5: Leadership
 
 ## The following may be applied / assessed at a later date (may be needed for the job)
