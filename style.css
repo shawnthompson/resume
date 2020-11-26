@@ -1,0 +1,35 @@
+body {
+  background-color: #000;
+  color: #fff;
+  font-size: 2em;
+}
+
+h1 {
+  font-size: 3.5em;
+  padding-top: 25px;
+}
+
+h2 {
+  font-size: 2.2em;
+  padding-top: 50px;
+  padding-bottom: 25px;
+}
+
+h3 {
+  font-size: 1.2em;
+  padding-top: 50px;
+}
+
+a {
+  color: yellow;
+}
+
+a:hover, a:focus {
+  color: orange;
+}
+
+a:focus {
+  border: solid 1px red;
+  font-size: 1.1em;
+}
+/*# sourceMappingURL=style.css.map */
