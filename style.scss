@@ -21,6 +21,11 @@ h3 {
 }
 
 a {
+
+	&.btn-primary:hover {
+		background-color: #fff;
+		color: #0062cc;
+	}
 	color: yellow;
 
 	&:hover,

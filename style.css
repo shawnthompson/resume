@@ -24,6 +24,11 @@ a {
   color: yellow;
 }
 
+a.btn-primary:hover {
+  background-color: #fff;
+  color: #0062cc;
+}
+
 a:hover, a:focus {
   color: orange;
 }
