@@ -60,7 +60,13 @@ footer {
 	h2 {
 		text-align: center;
 		font-size: 1.5em;
-		margin: 0;
+		margin-top: 0;
+	}
+
+	li {
+		&:first-of-type {
+			text-align: right;
+		}
 	}
 }
 
@@ -88,8 +94,11 @@ footer {
 		h2 {
 			text-align: left;
 		}
-		.text-right {
-			text-align: left !important;
+
+		li {
+			&:first-of-type {
+				text-align: left;
+			}
 		}
 	}
 
