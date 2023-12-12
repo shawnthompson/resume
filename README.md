@@ -33,9 +33,9 @@ Dedicated web developer with experience in leading projects and coaching staff t
 
 ## Work experience
 
-### February 2020 - present --- Employment and Social Development Canada (ESDC) --- Montreal, Que.
+### February 2020 - February 2021 --- Employment and Social Development Canada (ESDC) --- Montreal, Que.
 
-Web Accessibility Technical Advisor CS03 --- Innovation, Information and Technology Branch (IITB) --- Web Standards Centre of Expertise (WS-CoE)
+Web Accessibility Technical Advisor CS03 --- Innovation, Information and Technology Branch (IITB) --- IT Accessibility office
 
 *  Active member of three interdepartmental working groups:
 	*  Interdepartmental ICT Accessibility Conformance Reporting Task Force,
