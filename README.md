@@ -48,8 +48,7 @@ Web Accessibility Technical Advisor CS03 --- Innovation, Information and Technol
 *  Coach colleagues on accessibility technologies.
 *  Reply to different inquiries from IT professionals on accessibility matters.
 
-### February - April 2019 & August - November 2019 --- Employment and Social Development Canada (ESDC) --- Montreal, Q
-ue.
+### February - April 2019 & August - November 2019 --- Employment and Social Development Canada (ESDC) --- Montreal, Que.
 
 IM/IT Technical Specialist Technical Advisor CS03 --- Innovation, Information and Technology Branch (IITB) --- Web Standards Centre of Expertise (WS-CoE)
 
